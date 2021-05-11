@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.product": "^18.9.19",
     "prettier": "^1.19.1",
     "react": "^16.13.0",
